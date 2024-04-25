@@ -15,7 +15,7 @@
     height: 500px;
     background:#554C4C ;
     border: 2px solid grey;
-    position: absolute;
-    margin-top: -505px;
-    margin-left: 973px;
+}
+.flex{
+    display: flex;
 }
